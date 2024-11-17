@@ -1,0 +1,51 @@
+{
+    "artists": {
+        "href": "https://api.spotify.com/v1/search?query=Jarabe+de+Palo&type=artist&offset=0&limit=1",
+        "items": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1709913
+                },
+                "genres": [
+                    "latin alternative",
+                    "latin rock",
+                    "rock en espanol",
+                    "spanish pop",
+                    "spanish rock"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5B6H1Dq77AV1LZWrbNsuH5",
+                "id": "5B6H1Dq77AV1LZWrbNsuH5",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb70f08f633c78d37071b55f7a",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517470f08f633c78d37071b55f7a",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17870f08f633c78d37071b55f7a",
+                        "width": 160
+                    }
+                ],
+                "name": "Jarabe De Palo",
+                "popularity": 70,
+                "type": "artist",
+                "uri": "spotify:artist:5B6H1Dq77AV1LZWrbNsuH5"
+            }
+        ],
+        "limit": 1,
+        "next": "https://api.spotify.com/v1/search?query=Jarabe+de+Palo&type=artist&offset=1&limit=1",
+        "offset": 0,
+        "previous": null,
+        "total": 800
+    }
+}
